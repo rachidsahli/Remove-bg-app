@@ -2,9 +2,7 @@
 
 Cette application permet de supprimer l'arrière-plan d'une image. Chargez vos images et obtenez une version sans fond !
 
-
-![Aperçu de l'application](https://file%2B.vscode-resource.vscode-cdn.net/Users/rs777/Desktop/Capture%20d%E2%80%99e%CC%81cran%202024-11-17%20a%CC%80%2002.07.30.png?version%3D1731844704702)
-
+<img width="1469" alt="Capture d’écran 2024-11-17 à 02 07 30" src="https://github.com/user-attachments/assets/e7586cb0-9c7b-413a-90ee-f23a448c2c84">
 
 ## Fonctionnalités
 
