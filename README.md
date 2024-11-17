@@ -1,4 +1,4 @@
-# Remove Background App
+# Remove background app
 
 Cette application permet de supprimer l'arrière-plan d'une image. Chargez vos images et obtenez une version sans fond !
 
